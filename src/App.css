@@ -1,0 +1,228 @@
+ul,
+li {
+  list-style: none;
+  white-space: nowrap;
+}
+
+li {
+  display: inline;
+}
+
+img {
+  margin-top: -5px;
+  margin-bottom: -16px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+/* Main container */
+.videoyutuwu {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Reutilizar-container {
+  width: 700px;
+  height: 750px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: rgba(243, 235, 235, 0.8)
+}
+.aaaa {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(243, 235, 235, 0.8)
+}
+
+.main-containeruwu {
+  width: 1500px;
+  height: 400px;
+  margin: 0 auto;
+  
+}
+.Titulo-containeruwu {
+  width: 700px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: rgba(243, 235, 235, 0.8)
+}
+.Macetero-container2 {
+  width: 700px;
+  height: 500px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: rgba(243, 235, 235, 0.8)
+}
+.Papel-container {
+  width: 700px;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+  background-color: rgba(243, 235, 235, 0.8)
+}
+
+/* Slider container */
+.slider-containeruwu {
+  position: relative;
+  height: auto;
+  width: auto;
+  margin: auto;
+}
+.slider-container2uwu {
+  position: relative;
+  height: auto;
+  width: auto;
+  margin: 0 auto;
+}
+
+/* dots carrusel */
+.dots-containeruwu {
+  display: flex;
+  justify-content: center;
+}
+.dots-container2uwu {
+  display: flex;
+  justify-content: center;
+}
+
+.dot-container-itemuwu {
+  margin: 8px 3px;
+  cursor: pointer;
+  font-size: 12px;
+  text-align: center;
+}
+.dot-container-item2uwu {
+  margin: 8px 3px;
+  cursor: pointer;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Arrows */
+.leftArrowuwu {
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  left: 32px;
+  font-size: 50px;
+  font-weight: 700;
+  color: #fff;
+  z-index: 1;
+  cursor: pointer;
+}
+.leftArrow2uwu {
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  left: 32px;
+  font-size: 50px;
+  font-weight: 700;
+  color: #fff;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.rightArrowuwu {
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  right: 32px;
+  font-size: 50px;
+  font-weight: 700;
+  color: #fff;
+  z-index: 1;
+  cursor: pointer;
+}
+.rightArrow2uwu {
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  right: 32px;
+  font-size: 50px;
+  font-weight: 700;
+  color: #fff;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.container-imagesuwu {
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  border: 1px solid #eee;
+  overflow: hidden;
+}
+.container-images2uwu {
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  border: 1px solid #eee;
+  overflow: hidden;
+}
+
+div.activeuwu {
+  background: #ccc;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+div.active2uwu {
+  background: #ccc;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+body {
+    background-image: url('assets/images/v223_7.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
+
+p{
+  font-family: cursive;
+  text-align: center;
+}
+h1{
+  font-family: cursive;
+}
+h2 {
+  font-family: cursive;
+}
+h3{
+  font-family: cursive;
+  text-align: center;
+}
+h4{
+  font-family: cursive;
+  text-align: center;
+}
+.reutilizar-letras{
+  font-family: cursive;
+  text-align: justify;
+}
+/* src/App.css */
+.card {
+  border: 1px solid rgba(243, 235, 235, 0.8);
+  border-radius: 8px;
+  padding: 16px;
+  max-width: 600px;
+  margin: 16px auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: rgba(243, 235, 235, 0.8)
+}
+
+.images-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-image {
+  width: 48%;
+  height: auto;
+  border-radius: 8px;
+}
